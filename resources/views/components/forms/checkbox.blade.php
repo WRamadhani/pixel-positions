@@ -1,4 +1,4 @@
-@props(['label', 'name']);
+@props(['label', 'name'])
 @php
     $defaults = [
         'type' => 'checkbox',
